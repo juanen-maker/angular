@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist\\Angular10FirestoreCrud",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
